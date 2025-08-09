@@ -26,7 +26,6 @@ Capstone project applying predictive analytics techniques to a real-world datase
 ---
 
 ## 📊 GitHub Stats  
-![Jeevithesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevitheshCV&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV&layout=compact&theme=github_dark)  
 
 ---
