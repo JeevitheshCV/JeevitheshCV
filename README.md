@@ -1,28 +1,27 @@
 # 👋 Hi, I'm Jeevithesh Cattamanchi Venu  
 
 💻 **Machine Learning Engineer | MLOps Specialist**  
-🚀 Building Scalable AI Systems on AWS & GCP | Spark | MLflow | Kubernetes  
+🚀 Building scalable AI systems on AWS & GCP  
 📍 United States  
 
-> "Many ML models die in a Jupyter Notebook. I make sure they thrive in production."
-
----
-
-## 🛠 Skills & Technologies  
-**MLOps & Cloud:** AWS SageMaker, GCP AI Platform, MLflow, Docker, Kubernetes, Airflow  
-**Data Engineering:** Apache Spark, Kafka, AWS AppFlow, Snowflake  
-**Machine Learning:** Python, PyTorch, TensorFlow, NLP, Automatic Text Summarization  
-**Monitoring & CI/CD:** Prometheus, Grafana, GitHub Actions, Jenkins  
+> "I make sure ML models thrive in production."
 
 ---
 
 ## 📌 Featured Projects  
-- **[Store Management System](repo-link)** — End-to-end inventory management with database integration and analytics  
-- **[Invoice Generator](repo-link)** — Automated PDF invoice creation with real-time data processing  
-- **[Movie Recommendation Engine](repo-link)** — Content-based & collaborative filtering recommender system  
-- **[MLOps Pipeline](repo-link)** — Automated training, deployment, and monitoring using AWS, MLflow, and Airflow  
 
-*(Add live demos, screenshots, or hosted versions if available)*
+### [CALAMR-D: Structural-Semantic Summarization Evaluation](https://github.com/JeevitheshCV/CALAMR-D-Structural-Semantic-Summarization-Evaluation)  
+A research-driven project exploring structural and semantic evaluation methods for automatic text summarization. Includes novel evaluation metrics and comparative analysis.  
+
+---
+
+### [Fraud Detection MLOps](https://github.com/JeevitheshCV/fraud-detection-mlops)  
+An end-to-end MLOps project to detect insurance fraud. Covers data ingestion, feature engineering, model training, deployment, monitoring, and cloud infrastructure orchestration using Prefect.  
+
+---
+
+### [Predictive Analysis – Applied Data Science Capstone](https://github.com/JeevitheshCV/Predictive-Analysis-Applied-Data-Science-Capstone)  
+Capstone project applying predictive analytics techniques to a real-world dataset, with full pipeline from data preprocessing to model evaluation and deployment.  
 
 ---
 
@@ -33,7 +32,7 @@
 ---
 
 ## 📜 Certifications  
-- 🏆 **AWS Certified Machine Learning Engineer – Associate**  
+- 🏆 AWS Certified Machine Learning Engineer – Associate  
 - 🏆 IBM Data Science Specialization  
 - 🏆 Tableau Desktop Specialist  
 - 🏆 Infosys Global Agile Developer Certification  
