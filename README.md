@@ -26,9 +26,11 @@ Capstone project applying predictive analytics techniques to a real-world datase
 ---
 
 
-## 📊 Project Stats (better tuned)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=playground,tests,scratch&theme=github_dark)
-
+## 📊 Project Stats
+<!-- Overall stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeevitheshCV&show_icons=true&hide=issues&theme=github_dark" />
+<!-- Streak -->
+<img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
 
 
 ---
