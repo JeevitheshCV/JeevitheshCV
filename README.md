@@ -32,7 +32,16 @@ Capstone project applying predictive analytics techniques to a real-world datase
 <!-- Streak -->
 <img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
 
-
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV
+&layout=compact
+&langs_count=8
+&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER
+&size_weight=0.30
+&count_weight=0.70
+&hide=Jupyter%20Notebook,HTML
+&exclude_repo=gh-pages,portfolio,website,blog,docs
+&theme=github_dark" />
 ---
 
 ## 📜 Certifications  
