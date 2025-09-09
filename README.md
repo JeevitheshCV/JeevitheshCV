@@ -33,16 +33,9 @@ Capstone project applying predictive analytics techniques to a real-world datase
 <img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
 
 
-<!-- Languages (downweight HTML, hide notebooks) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV
-&layout=compact
-&langs_count=8
-&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER
-&size_weight=0.30
-&count_weight=0.70
-&hide=Jupyter%20Notebook,HTML
-&exclude_repo=gh-pages,portfolio,website,blog,docs
-&theme=github_dark" />
+<!-- Languages  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV&layout=compact&langs_count=6&size_weight=0.25&count_weight=0.75&hide=HTML,Jupyter%20Notebook&exclude_repo=gh-pages,portfolio,website,docs&theme=github_dark" />
+
 
 <!-- Activity graph (pretty) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeevitheshCV&theme=github-dark" />
@@ -52,10 +45,10 @@ Capstone project applying predictive analytics techniques to a real-world datase
 
 ---
 
-<!-- Summary cards set (auto theme) -->
+<!-- Summary cards set -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeevitheshCV&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeevitheshCV&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeevitheshCV&theme=github_dark" />
+
 
 ---
 
