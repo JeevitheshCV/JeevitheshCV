@@ -41,8 +41,8 @@ Capstone project applying predictive analytics techniques to a real-world datase
 ---
 
 ## 🧩 Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pycharm,tensorflow,pytorch,fastapi,flask,postgres,redis,docker,git,github,linux,azure,aws,vscode&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,gcp,fastapi,flask,git&perline=10" />
 </p>
 
 ---
