@@ -52,19 +52,6 @@ Capstone project applying predictive analytics techniques to a real-world datase
 
 ---
 
-<!-- Languages (balanced + Python surfaced) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV
-&layout=compact
-&langs_count=6
-&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER
-&size_weight=0.25
-&count_weight=0.75
-&hide=HTML
-&exclude_repo=gh-pages,portfolio,website,docs
-&theme=github_dark" />
-
----
-
 <!-- Summary cards set (auto theme) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeevitheshCV&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeevitheshCV&theme=github_dark" />
