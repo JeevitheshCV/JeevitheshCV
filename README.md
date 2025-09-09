@@ -31,13 +31,6 @@ Capstone project applying predictive analytics techniques to a real-world datase
 <!-- Languages  -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV&layout=compact&langs_count=6&size_weight=0.25&count_weight=0.75&hide=HTML,Jupyter%20Notebook&exclude_repo=gh-pages,portfolio,website,docs&theme=github_dark" />
 
-## 📊 Contributions
-
-<!-- Activity graph (pretty) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeevitheshCV&theme=github-dark" />
-
-<!-- Productivity by time/day -->
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/extra-snapshots/metrics.plugin.isocalendar.fullyear.svg" height="180" />
 
 ## 📊 Contributions
 
