@@ -32,7 +32,14 @@ Capstone project applying predictive analytics techniques to a real-world datase
 <!-- Streak -->
 <img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
 
-<!-- Languages -->
+## 📊 Stats (balanced & Python-forward)
+
+<!-- Overall stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeevitheshCV&show_icons=true&hide=issues&theme=github_dark" />
+<!-- Streak -->
+<img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
+
+<!-- Languages (downweight HTML, hide notebooks) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV
 &layout=compact
 &langs_count=8
@@ -42,13 +49,42 @@ Capstone project applying predictive analytics techniques to a real-world datase
 &hide=Jupyter%20Notebook,HTML
 &exclude_repo=gh-pages,portfolio,website,blog,docs
 &theme=github_dark" />
+
+<!-- Activity graph (pretty) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeevitheshCV&theme=github-dark" />
+
+<!-- Productivity by time/day -->
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/extra-snapshots/metrics.plugin.isocalendar.fullyear.svg" height="180" />
+
+---
+
+## 🏆 Trophies & Cards
+<img src="https://github-profile-trophy.vercel.app/?username=JeevitheshCV&theme=onedark&no-frame=true&column=6" />
+
+<!-- Summary cards set (auto theme) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeevitheshCV&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeevitheshCV&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeevitheshCV&theme=github_dark" />
+
+---
+
+## 🧩 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pycharm,tensorflow,pytorch,fastapi,flask,postgres,redis,docker,git,github,linux,azure,aws,vscode&perline=8" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (fun!)
+<!-- Works after you enable the action below -->
+<img src="https://raw.githubusercontent.com/JeevitheshCV/JeevitheshCV/output/snake.svg" alt="snake"/>
+
 ---
 
 ## 📜 Certifications  
 - 🏆 AWS Certified Machine Learning Engineer – Associate  
 - 🏆 IBM Data Science Specialization  
 - 🏆 Tableau Desktop Specialist  
-- 🏆 Infosys Global Agile Developer Certification  
 - 🏆 Machine Learning Specialization  
 
 ---
