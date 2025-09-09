@@ -32,12 +32,6 @@ Capstone project applying predictive analytics techniques to a real-world datase
 <!-- Streak -->
 <img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
 
-## 📊 Stats (balanced & Python-forward)
-
-<!-- Overall stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeevitheshCV&show_icons=true&hide=issues&theme=github_dark" />
-<!-- Streak -->
-<img height="165" src="https://streak-stats.demolab.com?user=JeevitheshCV&theme=github-dark-blue" />
 
 <!-- Languages (downweight HTML, hide notebooks) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV
@@ -58,8 +52,18 @@ Capstone project applying predictive analytics techniques to a real-world datase
 
 ---
 
-## 🏆 Trophies & Cards
-<img src="https://github-profile-trophy.vercel.app/?username=JeevitheshCV&theme=onedark&no-frame=true&column=6" />
+<!-- Languages (balanced + Python surfaced) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevitheshCV
+&layout=compact
+&langs_count=6
+&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER
+&size_weight=0.25
+&count_weight=0.75
+&hide=HTML
+&exclude_repo=gh-pages,portfolio,website,docs
+&theme=github_dark" />
+
+---
 
 <!-- Summary cards set (auto theme) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeevitheshCV&theme=github_dark" />
@@ -72,12 +76,6 @@ Capstone project applying predictive analytics techniques to a real-world datase
 <p>
   <img src="https://skillicons.dev/icons?i=python,pycharm,tensorflow,pytorch,fastapi,flask,postgres,redis,docker,git,github,linux,azure,aws,vscode&perline=8" />
 </p>
-
----
-
-## 🐍 Contribution Snake (fun!)
-<!-- Works after you enable the action below -->
-<img src="https://raw.githubusercontent.com/JeevitheshCV/JeevitheshCV/output/snake.svg" alt="snake"/>
 
 ---
 
